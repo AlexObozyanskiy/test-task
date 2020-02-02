@@ -1,8 +1,20 @@
+## Description
+This is my solution of test task.
+
+I decided to use React for this task because I have more experience with it than with other frameworks.  
+
+I had a few variations to solve this task but I settled on this. It's easy to read and understand. I think this method is good because of a little amount of expressions.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn`
+
+Before start work with this app, you have to run this command.
+This command installs all modules for this project.
 
 ### `yarn start`
 
